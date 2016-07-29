@@ -13,10 +13,10 @@ expressApp.use(cors());
 
 // create express server
 useExpressServer(expressApp, { // alternatively you can use useExpressServer with your own preconfigured express server
-    controllerDirs: [__dirname + "/controllers/**/*"]
+    controllerDirs: [__dirname + "/controllers/**/*.js"]
 });
 
 // run express app
 expressApp.listen(4000);
 
-console.log("Server is up and running at port 4000");
+console.log("API is up and running at port 4000");

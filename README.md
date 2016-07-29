@@ -1,4 +1,4 @@
-# routing-controllers with express demo
+# routing-controllers with angular and express demo
 
 1. Install all dependencies:
 
@@ -8,9 +8,9 @@
 
     `tsc`
 
-2. Run the project:
+2. Run API project:
 
-    `node ./build/app.js`
+    `node ./build/api/app.js`
     
 3. Open in browser:
  
