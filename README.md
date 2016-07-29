@@ -4,19 +4,6 @@
 
     `npm install`
     
-2. Compile the project:
+2. Compile and start the project:
 
-    `tsc`
-
-2. Run API project:
-
-    `node ./build/api/app.js`
-    
-3. Open in browser:
- 
-    `http://localhost:3000/posts`
-
-### Using with older versions of node
-
-This project targets ES6. 
-You can target ES5, but you'll need to use es6-shim and install its typings.
+    `npm start`
