@@ -40,7 +40,7 @@
     "express": "^4.14.0",
     "multer": "^1.1.0",
     "reflect-metadata": "^0.1.3",
-    "routing-controllers": "^0.6.0-beta.4",
+    "routing-controllers": "^0.6.3",
     "rxjs": "5.0.0-beta.6",
     "systemjs": "0.19.27",
     "typedi": "^0.4.2",
